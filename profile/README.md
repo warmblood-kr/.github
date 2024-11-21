@@ -1,6 +1,9 @@
-## Hi there 👋
+## We are Warmblood Co., Ltd. 👋
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/warmblood/dealmatch)
+
+We create the [DealMatch]() service, a marketplace designed for real estate development professionals.
+
 <!--
 
 **Here are some ideas to get you started:**
